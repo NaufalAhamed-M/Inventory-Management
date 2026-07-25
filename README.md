@@ -6,11 +6,11 @@ Built with Java Spring Boot, MySQL, and React.
 
 # ✨ Features
 
-📊 Dashboard — Total products, inventory value, low stock & out-of-stock count
-📦 Product CRUD — Add, edit, delete products with validation
-🔍 Search & Filter — Search by name, filter by category
-⚠️ Low Stock Alerts — Per-product threshold with a dedicated alert page
-🏷️ Stock Badges — In Stock / Low Stock / Out of Stock indicators
+--📊 Dashboard — Total products, inventory value, low stock & out-of-stock count
+--📦 Product CRUD — Add, edit, delete products with validation
+--🔍 Search & Filter — Search by name, filter by category
+--⚠️ Low Stock Alerts — Per-product threshold with a dedicated alert page
+--🏷️ Stock Badges — In Stock / Low Stock / Out of Stock indicators
 
 # 📁 Project Structure
 
