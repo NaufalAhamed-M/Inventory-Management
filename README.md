@@ -46,15 +46,15 @@ Open backend/src/main/resources/application.properties and update:
   
 4. Run the Backend
 Open a terminal inside the backend/ folder:
-    cd backend
-    mvn spring-boot:run
+    -cd backend
+    -mvn spring-boot:run
 
 5. Run the Frontend
 Open a new terminal inside the frontend/ folder:
 
-  cd frontend
-  npm install
-  npm start
+  -cd frontend
+  -npm install
+  -npm start
 
 # 📌 Notes
 
