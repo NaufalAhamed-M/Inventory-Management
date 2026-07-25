@@ -1,0 +1,19 @@
+# Node modules - never push this
+frontend/node_modules/
+node_modules/
+
+# Maven build output
+backend/target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+application-local.properties
