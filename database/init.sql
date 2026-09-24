@@ -1,9 +1,6 @@
--- Run this once to set up the database
 CREATE DATABASE IF NOT EXISTS inventory_db;
 USE inventory_db;
 
--- The `products` table is auto-created by Hibernate (spring.jpa.hibernate.ddl-auto=update)
--- This file seeds some sample data for testing
 
 INSERT INTO products (name, description, category, price, quantity, low_stock_threshold, created_at, updated_at)
 VALUES
